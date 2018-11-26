@@ -2,7 +2,7 @@
 # Learning EOSIO #
 ## This repo stores scripts that automate the [official development guide of eosio](https://developers.eos.io/eosio-cpp/docs/introduction) ##
 
-### SETTUP ###
+### SETUP ###
 * git clone ... eos
 * edit create-eos-node.sh to use proper folder location 
 * add to .bashrc:
