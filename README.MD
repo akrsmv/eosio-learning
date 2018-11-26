@@ -1,6 +1,6 @@
 
 # Learning EOSIO #
-##This repo stores scripts that automate the [official development guide of eosio](https://developers.eos.io/eosio-cpp/docs/introduction)##
+## This repo stores scripts that automate the [official development guide of eosio](https://developers.eos.io/eosio-cpp/docs/introduction) ##
 
 ### SETTUP ###
 * git clone ... eos
