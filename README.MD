@@ -6,9 +6,11 @@
 * git clone ... eos
 * edit create-eos-node.sh to use proper folder location 
 * add to .bashrc:
-> cd eos 
-> alias cleos='sudo docker exec -it eosio /opt/eosio/bin/cleos --url http://127.0.0.1:7777 --wallet-url http://127.0.0.1:5555'
-> source eosio-container-vars
+```bash
+cd eos 
+alias cleos='sudo docker exec -it eosio /opt/eosio/bin/cleos --url http://127.0.0.1:7777 --wallet-url http://127.0.0.1:5555'
+source eosio-container-vars
+```
 
 ### USAGE ###
 * create a node, setup wallet, and initial dev accounts
